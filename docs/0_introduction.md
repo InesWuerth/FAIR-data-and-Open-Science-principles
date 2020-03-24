@@ -6,7 +6,7 @@ We aim at being short, sharp and concise. We use many existing concepts, includi
 
   1. Open Science terminology and tools established by the [FOSTER](https://www.fosteropenscience.eu/about) project.
   2. FAIR data principles definitions established by the [GO FAIR](https://www.go-fair.org/go-fair-initiative/) initiative. 
-  3. R^5 ideas from [Benureau and Rougier](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full).
+  3. R^5 ideas from [Benureau and Rougier (2018)](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full).
   
 These principles were made to serve the purposes of all research domains. Therefore, this report will focus on tailoring them to the needs of the LIKE [Innovation Training Network](https://ec.europa.eu/research/mariecurieactions/actions/get-funding/innovative-training-networks_en) (ITN) of [Early Stage Researchers](http://www.oncornet.eu/index.php/recruitment/2-uncategorised/79-esr) (ESRs).
 
