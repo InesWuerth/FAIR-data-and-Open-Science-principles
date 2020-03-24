@@ -1,0 +1,32 @@
+# Python build remnants
+*.pyc
+build/
+dist/
+*.egg-info/
+**/__pycache__
+channel/
+.eggs/
+
+# Test remnants
+.pytest_cache/
+test/io/data/output/raster2vector_elevation.gfs
+test/io/data/output/raster2vector_roughness.gfs
+test/io/data/output/raster2vector_roughness.resolved.gml
+test/io/data/output/risoe_spd.txt
+test/.coverage
+test/test_mask.grd
+
+
+# Docs build remnants
+docs/build/
+docs/build-coverage
+docs/*/_autosummary
+docs/**/*_autogen
+site/
+
+# Editor configurations
+.ipynb_checkpoints
+.vscode/
+
+# macOS db files
+.DS_Store
