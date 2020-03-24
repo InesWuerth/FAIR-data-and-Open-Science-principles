@@ -25,6 +25,28 @@ The depicted research lifecycle consists of following phases:
 
 
 # Roles in lifecycle
+We will use [CRediT](https://casrai.org/credit/) to explain various roles in the research lifecycle. [CRediT](https://casrai.org/credit/) is  high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to a research output (data, scientific papers, code). The roles describe each contributor’s specific contribution to a research output:
+
+ 1. **Conceptualization – Ideas**: formulation or evolution of overarching research goals and aims.
+ 2. **Data curation**: Management activities to annotate (produce metadata), scrub data and maintain  research data (including software code, where it is necessary for interpreting the data itself) for  initial use and later re-use.
+ 3. **Formal analysis**: Application of statistical, mathematical, computational, or other formal  techniques to analyze or synthesize study data.
+ 4. **Funding acquisition**: Acquisition of the financial support for the project leading to this  publication.
+ 5. **Investigation**: ​Conducting a research and investigation process, specifically performing the  experiments, or data/evidence collection.
+ 6. **Methodology**: Development or design of methodology; creation of models.
+ 7. **Project administration**: Management and coordination responsibility for the research activity  - planning and execution.
+ 8. **Resources**: Provision of study materials, reagents, materials, patients, laboratory samples,  animals, instrumentation, data, computing resources, or other analysis tools.
+ 9. **Software**: Programming, software development; designing computer programs; implementation of the  - computer code and supporting algorithms; testing of existing code components.
+ 10. **Supervision**: Oversight and leadership responsibility for the research activity planning and  - execution, including mentorship external to the core team.
+ 11. **Validation**: Verification, whether as a part of the activity or separate, of the overall replication/ - reproducibility of results/experiments and other research outputs.
+ 12. **Visualization**: Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.
+ 13. **Writing – original draft**: ​Preparation, creation and/or presentation of the published work,  - specifically writing the initial draft (including substantive translation).
+ 14. **Writing – review & editing**: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision including pre- or post-publication stages.
+
+<div align="center">
+<img src="./img/badges.png" width="100%">
+<br> Figure 2. CRedit roles depicted as <a href="https://openbadges.org/about/">OpenBadges</a> (source: <a href="https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md">Github</a>)
+</div>
+
 
 # About Open Science
 
