@@ -20,3 +20,11 @@ The report contains the following:
 - [FAIR data principles](./fair_principles.md),
 - [their application to the needs of LIKE ITN](./application_like.md).
 
+
+## A living document
+We expect to update this document based on feedback from ITN LIKE and the wider community. We encourage comments, corrections, and other critique in the form of [github issues](https://github.com/LIKE-ITN/FAIR-data-and-Open-Science-principles/issues) as we can use that platform to manage the process.
+
+## Authors
+This report was produced by:
+- Nikola Vasiljevic (DTU Wind Energy)
+- Andy Clifton (University of Stuttgart) [ORCiD ID 0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
