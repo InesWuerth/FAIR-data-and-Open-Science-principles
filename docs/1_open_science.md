@@ -3,7 +3,7 @@
 Research is a complex process, and it best understood if broken to phases which are are executed sequentially. There are several representation of research lifecycle, where the most commonly used is one below:
 
 ![Research lifecyle](./img/ResearchLifecycle_foster.png)
-Figure 1. Research lifecyle (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
+**Figure 1.** Research lifecyle (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
 
 <!-- <div align="center">
 <img src="./img/ResearchLifecycle_foster.png" width="75%">
@@ -51,7 +51,7 @@ We will use [CRediT](https://casrai.org/credit/) to explain various roles in the
 
 
 ![CRedit badges](./img/badges.png)
-Figure 2. CRedit roles depicted as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
+**Figure 2.** CRedit roles depicted as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
 
 # About Open Science
 
