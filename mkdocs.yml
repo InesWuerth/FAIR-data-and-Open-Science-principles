@@ -1,8 +1,9 @@
 site_name: LIKE ITN Open Science and FAIR principles
 nav:
-    - Home: index.md
-    - Open Science principles: open_science.md
-    - FAIR data principles: fair_principles.md
-    - Application of principles to LIKE ITN: application_like.md
+    - Home: 0_instroduction.md
+    - Open Science principles: 1_open_science.md
+    - FAIR data principles: 2_fair_principles.md
+    - R^5 principles: 3_R5.md
+    - How to apply principles: 4_use_cases.md
 
 theme: readthedocs
