@@ -1,6 +1,6 @@
 site_name: LIKE ITN Open Science and FAIR principles
 nav:
-    - Home: 0_instroduction.md
+    - Home: index.md
     - Open Science principles: 1_open_science.md
     - FAIR data principles: 2_fair_principles.md
     - R^5 principles: 3_R5.md
