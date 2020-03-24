@@ -16,6 +16,7 @@ As these principles were made to serve the purposes of all research domains, thi
 
 ## Report structure
 The report contains the following:
+
 - [Information about Open Science](./open_science.md), 
 - [FAIR data principles](./fair_principles.md),
 - [their application to the needs of LIKE ITN](./application_like.md).
@@ -26,5 +27,6 @@ We expect to update this document based on feedback from ITN LIKE and the wider 
 
 ## Authors
 This report was produced by:
+
 - Nikola Vasiljevic (DTU Wind Energy)
 - Andy Clifton (University of Stuttgart) [ORCiD ID 0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
