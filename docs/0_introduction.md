@@ -1,12 +1,12 @@
 # Introduction
-This report describes how [Open Science](https://www.fosteropenscience.eu/node/1420), [FAIR data](https://www.go-fair.org/fair-principles/), and [R^5 ](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full) principles can be employed within the [LIKE](https://www.msca-like.eu/) project.
+This report describes how [Open Science](https://www.fosteropenscience.eu/node/1420), [FAIR data](https://www.go-fair.org/fair-principles/), and [R<sup>5</sup>](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full) principles can be employed within the [LIKE](https://www.msca-like.eu/) project.
 
 ## References
 We aim to keep this report concise. We will therefore use many existing concepts without going in to extensive detail. The main concepts are:
 
   1. Open Science terminology and tools established by the [FOSTER](https://www.fosteropenscience.eu/about) project.
   2. FAIR data principles and definitions established by the [GO FAIR](https://www.go-fair.org/go-fair-initiative/) initiative.
-  3. R^5 ideas from [Benureau and Rougier (2018)](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full).
+  3. R<sup>5</sup> ideas from [Benureau and Rougier (2018)](https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full).
 
 These principles were made to serve the purposes of all research domains. Therefore, this report will focus on tailoring them to the needs of the LIKE [Innovation Training Network](https://ec.europa.eu/research/mariecurieactions/actions/get-funding/innovative-training-networks_en) (ITN) of [Early Stage Researchers](http://www.oncornet.eu/index.php/recruitment/2-uncategorised/79-esr) (ESRs).
 

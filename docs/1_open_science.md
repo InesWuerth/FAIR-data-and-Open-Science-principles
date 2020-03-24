@@ -14,18 +14,26 @@ The depicted research lifecycle consists of following phases:
 
  1. **Hypothesis**
 
-    This the cornerstone phase of research. At this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement), selects [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis and design his/hers research. The design of the research is crucial as it entails details of the phases that will follow, such as a clear design of an experiment/simulation which will be used to test the hypotesis, Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected/processes/published/preserved, etc.
+    This the cornerstone phase of research. At this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement), selects [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis and design his/hers research. The design of the research is crucial as it entails details of the phases that will follow, such as a clear design of an experiment/simulation which will be used to test the hypotesis, Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected, processes, analyzed, published and preserved.
 
  2. **Data collection**
 
-    At this stage of the research lifecycle a research employs the previously established DMP, thus collecting data either by acquiring already existing datasets ([data re-use](https://nnlm.gov/data/thesaurus/data-reuse)) or creating unexisting datasets (act of data creation).
+    At this phase of the research lifecycle a researcher employs the previously established DMP, thus collecting data either by acquiring already existing ([data re-use](https://nnlm.gov/data/thesaurus/data-reuse)) or creating nonexisting datasets (act of data creation). Also, during this phase any additional information that could be relevant for data processing is collected and organized, such as data reports, experiment log books, etc.
 
  3. **Processing**
 
+    In this phase of the research lifecycle the collected data are being processed . U
+
+
 
  4. **Storing data and results**
+
+    In
+
  5. **Long-term preservation**
+
  6. **Publication and distribution**
+
  7. **Reuse**
 
 

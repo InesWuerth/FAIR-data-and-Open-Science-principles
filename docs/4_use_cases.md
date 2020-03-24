@@ -1,4 +1,4 @@
-# How to apply Open Science, FAIR and R^5 principles
+# How to apply Open Science, FAIR and R<sup>5</sup> principles
 
 ## Use-case: instrument development
 
