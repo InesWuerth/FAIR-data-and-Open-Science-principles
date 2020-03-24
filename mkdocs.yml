@@ -5,5 +5,7 @@ nav:
     - FAIR data principles: 2_fair_principles.md
     - R^5 principles: 3_R5.md
     - How to apply principles: 4_use_cases.md
+    - Authors: authors.md
+    - License: license.md
 
 theme: readthedocs
