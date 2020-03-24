@@ -9,3 +9,6 @@ nav:
     - License: license.md
 
 theme: readthedocs
+
+markdown_extensions:
+    - footnotes
