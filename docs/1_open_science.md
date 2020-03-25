@@ -1,6 +1,6 @@
 # About research lifecycle
 
-Research is a complex process, and it best understood if broken to phases which are are executed sequentially. There are several representation of research lifecycle, where the most commonly used is one below:
+Research is a complex process, and it best understood if broken to phases which for simplicity of explanation are executed sequentially, however some of them actually run in parallel (e.g., data collection, processing and storage). There are several representation of research lifecycle, where the most commonly used is one below:
 
 ![Research lifecyle](./img/ResearchLifecycle_foster.png)
 **Figure 1.** Research lifecyle (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
@@ -18,19 +18,31 @@ The depicted research lifecycle consists of following phases:
 
  2. **Data collection**
 
-    At this phase of the research lifecycle a researcher employs the previously established DMP, thus collecting data either by acquiring already existing ([data re-use](https://nnlm.gov/data/thesaurus/data-reuse)) or creating nonexisting datasets (act of data creation). Also, during this phase any additional information that could be relevant for data processing is collected and organized, such as data reports, experiment log books, existing data processing code, etc.
+    At this phase of the research lifecycle a researcher employs the previously established DMP, thus collecting data either by acquiring already existing ([data re-use](https://nnlm.gov/data/thesaurus/data-reuse)) or creating nonexisting datasets (act of data creation). Also, during this phase any additional information that could be relevant for data processing is collected or create and organized, such as data reports, experiment log books, existing data processing code, etc. As we collect data, we are ingesting relevant [metadata](https://en.wikipedia.org/wiki/Metadata) to data.
 
  3. **Processing**
 
-    In this phase of the research lifecycle the collected data are processed to yield information and insights. It is not uncommon that prior the actual processing a good portion of resources is actually spent on data preparation (e.g., data re-structuring, filtering, etc.). According to the study published in [FORBES](https://bit.ly/2WwVPho) data preparation typically accounts for 80% of researcher’s time, whereas the remaining 20% of their time is spend on the actual data processing.
+    In this phase of the research lifecycle the collected data are processed to yield information and insights. Also, this phase of the research lifecycle account for all data processing code. For experimental studies, which span over a longer period of time data processing, ideally data processing should run in near-real-time with data collection. It is not uncommon that prior the actual processing a good portion of allocated resources is spent on data preparation (e.g., [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling), filtering, quality control, quality assurance, etc.). According to the study published in [FORBES](https://bit.ly/2WwVPho) data preparation typically accounts for 80% of researcher’s time, whereas the remaining 20% of their time is spend on the actual data processing.For large data collections, it is absolutely a must to annotate them (act of [data annotation](https://zenodo.org/record/3522413)) while processing them as this will assure an efficient [subsetting](https://en.wikipedia.org/wiki/Subsetting) of data collection (i.e., reducing the reported 80% / 20% ratio in future data re-use).
 
  4. **Storing data and results**
 
+    This phase actually runs in parallel with `data collection` and `data processing`. As we collect data and process data, we need to find and adequate storage for metadata, data, data annotations, data processing code and results of data processing. Typically what we are looking for is a temporarily fast access storage services which will allow a team of researchers to work jointly on data. These services are often offered by local universities. However, researchers can make use of the European collaborative data infrastructures such as [EUDAT](https://www.eudat.eu/) which for example provides this type of services known as [B2Drop](https://www.eudat.eu/services/b2drop).
+
  5. **Long-term preservation**
+
+    Typically the university policies guarantee data storage of up to 5 years after the completion of the research project, which basically secures a mid-term preservation of data. For a long-term preservation of data (5+ years), physical tapes and dedicated 'offline' data warehouses are typically used. While on tapes and in warehouses, data are at rest, safely stored and protected from outside influence, accessible on-demand.
 
  6. **Publication and distribution**
 
+    Through out the research lifecycle researchers are generating several outputs prior a traditional scientific paper which are publishable, such as data, data processing code, and data annotations. For each research output researcher can either publish only output's metadata or output with metadata. When publishing, a researcher must select an appropriate license which clarifies terms of usage of the publish asset. For metadata, data, and data annotations [Creative Commons licenses](https://creativecommons.org/choose/) are typically used. In case of data processing code various [open source licenses](https://opensource.org/licenses) can be used, where [MIT](https://opensource.org/licenses/MIT) or [BSD](https://opensource.org/licenses/BSD-3-Clause) are among favorites in the open source community. What a research needs to assure is that for the published output a persistent identifier (PID) is assigned. This allows an efficient citation of the published output. Typically, Digital Object Identifier (DOI) is used as a PID for the above mentioned research outputs.
+
+    It is not uncommon to put an [embargo](https://en.wikipedia.org/wiki/Embargo_(academic_publishing)) on a published output, especially data. The embargo is a period during which access to the published output is not allowed to anyone else apart from the output author, however metadata are accessible, and thus the output can be cited.
+
+    If all the outputs, which precede the scientific paper(s) which will use them, are published, the scientific paper(s) can cite them. In this way scientific papers will contain a full chain of custody depicting the entire research lifecycle. Unlike a scientific paper, which content cannot be edited once published, metadata of other research outputs can be edited to point back to the scientific papers which make use of them.
+
  7. **Reuse**
+
+    If the previous phases are done meticulously, outputs generated in the research lifecycle will find their use beyond the project lifetime. This will bring higher impact of research, often measured through an increased number of citations.
 
 
 # Roles in lifecycle
