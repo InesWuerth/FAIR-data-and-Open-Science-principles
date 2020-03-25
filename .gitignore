@@ -31,3 +31,4 @@ site/
 # macOS db files
 .DS_Store
 base_material/
+site/

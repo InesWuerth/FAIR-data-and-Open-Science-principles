@@ -13,9 +13,9 @@ These principles were made to serve the purposes of all research domains. Theref
 ## Report structure
 The report contains the following:
 
-- [Information about Open Science](./open_science.md),
-- [FAIR data principles](./fair_principles.md),
-- [their application to the needs of LIKE ITN](./application_like.md).
+- [Information about Open Science](./1_open_science.md),
+- [FAIR data principles](./2_fair_principles.md),
+- [their application to the needs of LIKE ITN](./4_use_cases.md).
 
 
 ## A living document

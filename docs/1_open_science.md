@@ -22,7 +22,7 @@ The depicted research lifecycle consists of following phases:
 
  3. **Processing**
 
-    In this phase of the research lifecycle the collected data are processed to yield information and insights. It is not uncommon that prior the actual processing a good portion of resources is actually spent on data preparation. According to the study published in [FORBES](https://bit.ly/2WwVPho) data preparation accounts for 80% of researcher’s time, whereas the remaining 20% of their time is spend on the actual data processing.
+    In this phase of the research lifecycle the collected data are processed to yield information and insights. It is not uncommon that prior the actual processing a good portion of resources is actually spent on data preparation (e.g., data re-structuring, filtering, etc.). According to the study published in [FORBES](https://bit.ly/2WwVPho) data preparation typically accounts for 80% of researcher’s time, whereas the remaining 20% of their time is spend on the actual data processing.
 
  4. **Storing data and results**
 
