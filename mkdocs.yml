@@ -3,8 +3,8 @@ nav:
     - Introduction: 0_introduction.md
     - Research lifecycle: 1_research_lifecycle.md
     - Open Science principles: 2_open_science.md
-    - The FAIR data principles: 3_fair_principles.md
-    - The R<sup>5</sup> principles: 4_R5.md
+    - FAIR data principles: 3_fair_principles.md
+    - R<sup>5</sup> principles: 4_R5.md
     - Use cases: 5_use_cases.md
     - Authors: authors.md
     - License: license.md
