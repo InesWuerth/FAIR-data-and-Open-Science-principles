@@ -12,7 +12,7 @@ Open Science is frequently defined as an umbrella term that involves various mov
 **Figure 2.** Open Science building blocks (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
 
 
-Actually 'Open Science' is not a novelty (recognized by many authors), but according to the [UN declaration](https://www.un.org/en/universal-declaration-human-rights/) it is a (basic) human right (see [Article 27](https://www.un.org/en/universal-declaration-human-rights/)):
+Actually 'Open Science' is not a novelty, but according to the [UN declaration](https://www.un.org/en/universal-declaration-human-rights/) it is a (basic) human right (see [Article 27](https://www.un.org/en/universal-declaration-human-rights/)):
 
 1. *Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.*
 
@@ -30,9 +30,18 @@ Therefore, science must be 'open' per se, however pushing and promoting 'Open Sc
 
 2. Reproducibility Crisis
 
-3. Serial Crisis
+    Much research in many fields cannot be sufficiently reproduced.
 
-4. Evaluation Crisis
+3. [Serial Crisis](https://publications.parliament.uk/pa/cm201314/cmselect/cmbis/99/9905.htm)
 
+    Commercial publishers are basically draining our libraries dry. According to the [report](https://publications.parliament.uk/pa/cm201314/cmselect/cmbis/99/9905.htm) subscriptions to journals from commercial publishers is not following the consumer price index, but every year it is becoming significantly higher. Elsevier alone, based on the [article](https://medium.com/@jasonschmitt/can-t-disrupt-this-elsevier-and-the-25-2-billion-dollar-a-year-academic-publishing-business-aa3b9618d40a#.py4oxxqyc) from 2015, makes a profit of 25.2 Billion dollar a year from academic publishing business.
+
+4. [Evaluation Crisis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668985/)
+
+    Globally, Journal Impact Factor (JIF) has been used as a reliable metric to evaluate research articles, their quality. However, JIF was originally designed to aid libraries in deciding which journals to index and purchase for their collections. Therefore, in its structural design JIF is not intended for evaluation of quality of ones work.
+
+## Difference between good science practices and common science practices, i.e. (Open Science vs Advertizement)
+
+<!-- Build a case here -->
 
 # Open Science tools
