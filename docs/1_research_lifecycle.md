@@ -47,7 +47,7 @@ The depicted research lifecycle consists of following phases:
 
 # Roles in lifecycle
 
-We will use [CRediT](https://casrai.org/credit/) to explain various roles in the research lifecycle. [CRediT](https://casrai.org/credit/) is  high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to a research output (data, scientific papers, code). The roles describe each contributor’s specific contribution to a research output:
+We will use [CRediT](https://casrai.org/credit/) to explain various roles in the research lifecycle. [CRediT](https://casrai.org/credit/) is  high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors in the research lifecycle. The roles describe each contributor’s specific contribution to a research output:
 
  1. **Conceptualization – Ideas**: formulation or evolution of overarching research goals and aims.
  2. **Data curation**: Management activities to annotate (produce metadata), scrub data and maintain  research data (including software code, where it is necessary for interpreting the data itself) for  initial use and later re-use.
@@ -68,7 +68,3 @@ We will use [CRediT](https://casrai.org/credit/) to explain various roles in the
 
 ![CRedit badges](./img/badges.png)
 **Figure 2.** CRedit roles depicted as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
-
-# About Open Science
-
-# Open Science tools

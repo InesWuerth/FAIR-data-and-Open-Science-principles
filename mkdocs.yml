@@ -1,10 +1,11 @@
 site_name: LIKE ITN Open Science and FAIR principles
 nav:
     - Introduction: 0_introduction.md
-    - Open Science principles: 1_open_science.md
-    - The FAIR data principles: 2_fair_principles.md
-    - The R<sup>5</sup> principles: 3_R5.md
-    - How to apply these principles: 4_use_cases.md
+    - Research lifecycle: 1_research_lifecycle.md
+    - Open Science principles: 2_open_science.md
+    - The FAIR data principles: 3_fair_principles.md
+    - The R<sup>5</sup> principles: 4_R5.md
+    - How to apply these principles: 5_use_cases.md
     - Authors: authors.md
     - License: license.md
 
