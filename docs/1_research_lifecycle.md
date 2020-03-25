@@ -12,7 +12,7 @@ Research is a complex process, and it best understood if broken to phases which 
 
 The depicted research lifecycle consists of following phases:
 
- 1. **Hypothesis**
+ 1. **Hypothesis** <a name = "hypothesis"></a>
 
     This the cornerstone phase of research. At this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement), selects [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis and design his/hers research. The design of the research is crucial as it entails details of the phases that will follow, such as a clear design of an experiment/simulation which will be used to test the hypotesis, Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected, processes, analyzed, published and preserved.
 
@@ -49,7 +49,7 @@ The depicted research lifecycle consists of following phases:
 
 We will use [CRediT](https://casrai.org/credit/) to explain various roles in the research lifecycle. [CRediT](https://casrai.org/credit/) is  high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors in the research lifecycle. The roles describe each contributor’s specific contribution to a research output:
 
- 1. **Conceptualization – Ideas**: formulation or evolution of overarching research goals and aims.
+ 1. **Conceptualization – Ideas**: formulation or evolution of overarching research goals and aims (see [Hypothesis](#hypothesis)).
  2. **Data curation**: Management activities to annotate (produce metadata), scrub data and maintain  research data (including software code, where it is necessary for interpreting the data itself) for  initial use and later re-use.
  3. **Formal analysis**: Application of statistical, mathematical, computational, or other formal  techniques to analyze or synthesize study data.
  4. **Funding acquisition**: Acquisition of the financial support for the project leading to this  publication.
