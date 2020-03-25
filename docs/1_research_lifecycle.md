@@ -32,7 +32,7 @@ The depicted research lifecycle consists of following phases:
 
     Typically the university policies guarantee data storage of up to 5 years after the completion of the research project, which basically secures a mid-term preservation of data. For a long-term preservation of data (5+ years), physical tapes and dedicated 'offline' data warehouses are typically used. While on tapes and in warehouses, data are at rest, safely stored and protected from outside influence, accessible on-demand.
 
- 6. **Publication and distribution** <a name = "publication"></a>
+ 6. **Publication and distribution** <a name = "publishing"></a>
 
     Through out the research lifecycle researchers are generating several outputs prior a traditional scientific paper which are publishable, such as data, data processing code, and data annotations. For each research output researcher can either publish only output's metadata or output with metadata. When publishing, a researcher must select an appropriate license which clarifies terms of usage of the publish asset. For metadata, data, and data annotations [Creative Commons licenses](https://creativecommons.org/choose/) are typically used. In case of data processing code various [open source licenses](https://opensource.org/licenses) can be used, where [MIT](https://opensource.org/licenses/MIT) or [BSD](https://opensource.org/licenses/BSD-3-Clause) are among favorites in the open source community. What a research needs to assure is that for the published output a persistent identifier (PID) is assigned. This allows an efficient citation of the published output. Typically, Digital Object Identifier (DOI) is used as a PID for the above mentioned research outputs.
 
@@ -61,8 +61,8 @@ We will use [CRediT](https://casrai.org/credit/) to explain various roles in the
  10. **Supervision**: Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team (all phases of the research lifecycle).
  11. **Validation**: Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.
  12. **Visualization**: Preparation, creation and/or presentation of the published work, specifically visualization/data presentation (see [Data processing](#data-processing), [Storage](#data-storing) and [Publishing](#publishing)).
- 13. **Writing – original draft**: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (see [Publishing](#publishing).
- 14. **Writing – review & editing**: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision including pre- or post-publication stages (see [Publishing](#publishing).
+ 13. **Writing – original draft**: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (see [Publishing](#publishing)).
+ 14. **Writing – review & editing**: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision including pre- or post-publication stages (see [Publishing](#publishing)).
 
 
 ![CRedit badges](./img/badges.png)
