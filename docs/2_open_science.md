@@ -20,7 +20,13 @@ Actually 'Open Science' is not a novelty (recognized by many authors), but accor
 
 Therefore, science must be 'open' per se, however pushing and promoting 'Open Science' principles are needed since according to [J. Tennant](https://www.en.inside.aau.dk/Events/Event/talk-on-open-science-by-dr.-jon-tennant--setting-the-default-to--open--for-research.cid427260) there are at least four major crisis:
 
-1. Access Crisis
+1. [Access Crisis](https://peerj.com/articles/4375/)
+
+    Most scholarly research remains inaccessible to most people on this planet as shown in the figure below:
+    ![Research lifecyle](./img/access_crisis.png)
+    **Figure 3.** Number of articles (A) and proportion of articles (B) with OA copies, estimated based on a random sample of 100,000 articles with Crossref DOIs. (source: [H. Piwowar et all 2018​](https://peerj.com/articles/4375/))
+
+
 
 2. Reproducibility Crisis
 
