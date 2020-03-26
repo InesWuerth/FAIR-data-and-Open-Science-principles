@@ -1,18 +1,18 @@
 # The research lifecycle
 
-Research is a complex process, and it is most easily understood as a series of steps carried out sequentially in a loop. This loop may repeat one or more times in a project. A commonly-used representation is shown below. 
+Research is a complex process, and it is most easily understood as a series of steps carried out sequentially in a loop. This loop may repeat one or more times in a project. A commonly-used representation is shown below.
 
 ![Research lifecyle](./img/ResearchLifecycle_foster.png)
 **Figure 1.** The research lifecyle. From [“The Open Science Handbook”](https://www.fosteropenscience.eu/sites/default/files/pdf/3986.pdf) (Open Science and Research Initiative, 2014). Used under the Creative Commons Attribution 4.0 International Public License.
 
-In reality, some of these phases may run in parallel, for example data collection, processing and storage. 
+In reality, some of these phases may run in parallel, for example data collection, processing and storage.
 
 The depicted research lifecycle consists of the following phases:
 
  1. **Hypothesis** <a name = "hypothesis"></a>
 
-    This the cornerstone phase of research. During this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement) and selects a [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis. 
-    
+    This the cornerstone phase of research. During this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement) and selects a [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis.
+
     These steps allow the researcher to further design and plan their research. For example, they might lead to a concept and plans for the experiments or simulation which will be used to test the hypothesis. This in turn allows the researcher to create a Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected, processes, analyzed, published and preserved.
 
  2. **Data collection** <a name = "data-collection"></a>
@@ -70,4 +70,4 @@ We will use [CRediT](https://casrai.org/credit/) to explain various roles in the
 
 
 ![CRedit badges](./img/badges.png)
-**Figure 2.** CRedit roles depicted as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
+**Figure 2.** CRediT roles depicted as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
