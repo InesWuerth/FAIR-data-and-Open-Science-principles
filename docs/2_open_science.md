@@ -14,7 +14,7 @@ Actually 'Open Science' is not a novelty, but according to the [UN declaration](
 
 Open Science is frequently defined as an umbrella term that involves various movements aiming to remove the barriers for sharing any kind of output, resources, methods or tools, at any stage of the research process. As such, open access to publications, open research data, open source software, open collaboration, open peer review, open notebooks, open educational resources, open monographs, citizen science, or research crowdfunding, fall into the boundaries of Open Science (see figure 2). Even though, especially for the library and information domain, the focus is usually placed on two of these movements: Open Research Data and Open Access to scientific publications. Before we make a deep dive into each of the Open Science building blocks lets review the current state of science.
 
-![Research lifecyle](./img/os_building_blocks.png)
+![Research lifecyle](./img/os_building_blocks.png)<br>
 **Figure 2.** Open Science building blocks (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
 
 Science must be 'open' per se, however pushing and promoting 'Open Science' principles are needed since according to [J. Tennant](https://www.en.inside.aau.dk/Events/Event/talk-on-open-science-by-dr.-jon-tennant--setting-the-default-to--open--for-research.cid427260) there are at least four major crisis:
