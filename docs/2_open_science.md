@@ -4,7 +4,7 @@ The following text has been compiled from many sources of which the following wh
 Open science can be seen as a new approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools. Those in turn lead to reduced costs by reducing wasted duplicate effort, better visibility of results, and more ability to reuse work elsewhere. It also can reduce reliance on key personnel and makes organizations more resilient. The OECD defines Open Science as approach:  “*to make the primary outputs of publicly funded research results – publications and the research data – publicly accessible in digital format with no or minimal restriction*”. However, as stated by the [FOSTER](https://www.fosteropenscience.eu/node/1420) project, Open Science is more than that and it is extending the principles of openness to the whole research lifecycle (see figure 1), fostering sharing and collaboration as early as possible thus entailing a systemic change to the way science and research is done.
 
 ![Research lifecyle](./img/ResearchLifecycle_foster.png)
-**Figure 1.** Research lifecyle (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
+**Figure 1.** The research lifecyle. From [“The Open Science Handbook”](https://www.fosteropenscience.eu/sites/default/files/pdf/3986.pdf) (Open Science and Research Initiative, 2014). Used under the Creative Commons Attribution 4.0 International Public License.
 
 Actually 'Open Science' is not a novelty, but according to the [UN declaration](https://www.un.org/en/universal-declaration-human-rights/) it is a (basic) human right (see [Article 27](https://www.un.org/en/universal-declaration-human-rights/)):
 
