@@ -17,64 +17,64 @@ In the following sections we will review each principle individually. To large e
 # F - Findable
 The first step in (re)using data is to find them. Metadata and data should be easy to find for both humans and computers. Machine-readable metadata are essential for automatic discovery of datasets and services, so this is an essential component of the [FAIRification](https://www.go-fair.org/fair-principles/fairification-process/) process. Under the **Findable** facet of the FAIR principles we have four principles:
 
-```
-F1. Metadata and data are assigned a globally unique and persistent identifier (PID)
-```
+
+> **F1. Metadata and data are assigned a globally unique and persistent identifier (PID)**
+
 Principle **F1** is arguably the most important because it will be hard to achieve other aspects of FAIR without globally unique and persistent identifiers. Globally unique and persistent identifiers remove ambiguity in the meaning of your published data. They are typically resolve to a web page. Examples of unique and persistent identifiers are:
 
 - Each registered researcher in [ORCID](https://orcid.org/) has a unique ORCID iD, for example id [https://orcid.org/0000-0002-9381-9693](https://orcid.org/0000-0002-9381-9693) resolve to a specific person in the ORCID data base
 - Identifier [http://vocab.nerc.ac.uk/collection/A01/](http://vocab.nerc.ac.uk/collection/A01/) resolves to the  thesaurus of terms used at all hierarchical levels in the International Coastal Atlas Network
 - DOI [10.11583/DTU.12005421.v1](https://doi.org/10.11583/DTU.12005421.v1) resolves to landing page containing metadata of large eddy simulation of wake flow behind 2.3 MW wind turbine
 
-```
-F2. Data are described with rich metadata (further defined by R1 principle below)
-```
+
+> **F2. Data are described with rich metadata (further defined by R1 principle below)**
+
 **F2** advocates for providing generous and extensive metadata while creating FAIR digital resources. Metadata should include descriptive information about the context, quality and condition, or characteristics of the data. Rich metadata allow a computer to automatically accomplish routine and tedious sorting and prioritizing tasks that currently demand a lot of attention from researchers. The rationale behind this principle is that someone should be able to find data based on the information provided by their metadata, even without the data’s identifier. As such, compliance with F2 helps people to locate your data, and increase re-use and citations. Rich metadata implies that you should not presume that you know who will want to use your data, or for what purpose. The bottom line, there is no useless metadata.
 
-```
-F3. Metadata clearly and explicitly include the identifier of the data they describe
-```
+
+> **F3. Metadata clearly and explicitly include the identifier of the data they describe**
+
 The metadata and the dataset they describe are usually separate files. Therefore, the principle **F3** requires that the association between a metadata file and the dataset should be made explicit by mentioning a dataset’s globally unique and persistent identifier in the metadata. If we consider the example of [LES dataset](https://doi.org/10.11583/DTU.12005421.v1), its metadata has DOI (PID) but also metadata contains PIDs to the dataset, which in this example are resolvable download links of files which make the dataset.
 
-```
-F4. Metadata and data are registered or indexed in a searchable resource
-```
+
+> **F4. Metadata and data are registered or indexed in a searchable resource**
+
 
 Identifiers and rich metadata descriptions alone will not ensure ‘findability’ on the Internet. Perfectly good data resources may go unused simply because no one knows they exist. If the availability of a digital resource such as a dataset, service or repository is not known, then nobody (and no machine) can discover it. There are many ways in which digital resources can be made discoverable, including indexing. For example, Google sends out spiders that ‘read’ web pages and automatically index them, so they then become findable in the Google search box. This is great for most ordinary searchers, but for scholarly research data, we need to be more explicit about indexing. Principles F1-F3 will provide the core elements for fine-grained indexing by some current repositories and future services (e.g., Google is developing a [specific dataset search service](https://datasetsearch.research.google.com/)).
 
 # A - Accessible
 Once the user finds the required data, she/he needs to know how can they be accessed, possibly including authentication and authorization. Here we have two principle, where one of them is further decoupled to two sub-principles:
-```
-A1. Metadata and data are retrievable by their identifier using a standardized communications protocol.
-```
+
+> **A1. Metadata and data are retrievable by their identifier using a standardized communications protocol.**
+
 Most users of the internet retrieve data by ‘clicking on a link’. This is a high-level interface to a low-level protocol called tcp, that the computer executes to load data in the user’s web browser. (Note that http(s) or ftp, which form the backbone of modern internet, are built on tcp, and make requesting and providing digital resources substantially easier than other communication protocols.) Principle A1 states that FAIR data retrieval should be mediated without specialized or proprietary  tools or communication methods. This principle focuses on how data and metadata can be retrieved from their identifiers.
 
-```
-A1.1 The protocol is open, free, and universally implementable
-```
+
+> **A1.1 The protocol is open, free, and universally implementable**
+
 To maximize data reuse, the protocol should be free (no-cost) and open (-sourced) and thus globally implementable to facilitate data retrieval. Anyone with a computer and an internet connection can access at least the metadata (e.g., HTTP, FTP, SMTP). Hence, this criterion will impact your choice of the repository where you will share your data.
 
-```
-A1.2 The protocol allows for an authentication and authorization procedure, where necessary
-```
+
+> **A1.2 The protocol allows for an authentication and authorization procedure, where necessary**
+
 This is a key, but often misunderstood, element of FAIR. The ‘A’ in FAIR does not necessarily mean ‘open’ or ‘free’. Rather, it implies that one should provide the exact conditions under which the data are accessible. Hence, even heavily protected and private data can be FAIR. Ideally, accessibility is specified in such a way that a machine can automatically understand the requirements, and then either automatically execute the requirements or alert the user to the requirements. It often makes sense to request users to create a user account for a repository. This allows to authenticate the owner (or contributor) of each dataset, and to potentially set user-specific rights. Hence, this criterion will also affect your choice of the repository where you will share your data. Typical example of protocols which has options for authentication are HTTPS and FTPS.
 
-```
-A2. Metadata are accessible, even when the data are no longer available
-```
+
+> **A2. Metadata are accessible, even when the data are no longer available**
+
 Datasets tend to degrade or disappear over time because there is a cost to maintaining an online presence for data resources. When this happens, links become invalid and users waste time hunting for data that might no longer be there. Storing the metadata generally is much easier and cheaper. Hence, principle A2 states that metadata should persist even when the data are no longer sustained. A2 is related to the registration and indexing issues described in F4.
 
 # I - Interoperable
 The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
 
-```
-I1. Metadata and data use a formal, accessible, shared, and broadly applicable language for knowledge representation
-````
+
+> **I1. Metadata and data use a formal, accessible, shared, and broadly applicable language for knowledge representation**
+
 Humans should be able to exchange and interpret each other’s data (so preferably do not use dead languages). But this also applies to computers, meaning that data that should be readable for machines without the need for specialised or ad hoc algorithms, translators, or mappings. Interoperability typically means that each computer system at least has knowledge of the other system’s data exchange formats. For this to happen and to ensure automatic findability and interoperability of datasets, it is critical to use (1) commonly used controlled vocabularies, ontologies, thesauri (having resolvable globally unique and persistent identifiers, see F1) and (2) a good data model (a well-defined framework to describe and structure (meta)data). For example, the RDF extensible knowledge representation model is a way to describe and structure datasets. You can refer to the Dublin Core Schema as an example.
 
-```
-I2. Metadata and data use vocabularies that follow FAIR principles
-```
+
+> **I2. Metadata and data use vocabularies that follow FAIR principles**
+
 The controlled vocabulary used to describe datasets needs to be documented and resolvable using globally unique and persistent identifiers. This documentation needs to be easily findable and accessible by anyone who uses the dataset. An example is [wind energy taxonomies](https://github.com/wind-energy/taxonomies-and-vocabularies/).
 
 > **I3. Metadata and data include qualified references to other Metadata and data**
