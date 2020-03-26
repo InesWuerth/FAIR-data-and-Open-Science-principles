@@ -51,16 +51,12 @@ In traditional scientific publishing researchers publish scientific paper in hig
 
 The problem with the first scenario is that usually our research work is publicly funded, and thus, it does not belong to us but to everyone. The second scenario is actually a result of decades of maltreating  research outputs other than scientific papers as not important since they are not boosting researchers [*h*-index](https://en.wikipedia.org/wiki/H-index), thus enabling researchers to advance their careers. Simply there was no incentive to make for example data and code of higher standards other than individual desire to create a long-lasting scientific legacy.
 
+Lets now look at a hypothetical case of applying Open Science principles. First of all, even before we submit a scientific paper for a review, which will eventually result in the paper publication, we are making our lab notebooks available online, for example in a form of [blog](https://perdigao-2015.tumblr.com/) that is continuously updated as we progress with out work. Once the data collection phase of the research lifecycle is completed we publish metadata of the collected data (this will result in a PID that we can cite). As we are processing we host the data processing code as an open-source repository on for example Github. Integrating Github with Zenodo will assure that we are getting PID (i.e., DOI) for the repository. Benefit of hosting code on Github and integrating Github with Zenodo is that we are also enabling version control of our code, and thus we can cite a specific version of the code. Once goals of data processing are reached, and thus scientific paper written we are submitting the paper to an open-access and open-review journal for example [AMT](https://www.atmospheric-measurement-techniques.net/index.html), while publishing the collected data. The submitted paper will contain citations to the online lab notebooks, the collected data and data processing code. One tremendous feature of publishing in  open-access/open-review journals is that our paper is accessible and citable right from the moment it enters a discussion phase. Accordingly, everyone has an open access to it as well to all underlying research outputs.
+
 ![Open Science publishing practices](./img/yes_os.png)<br>
 **Figure 5.** Open Science practices offer access to all parts of scientific work (source: Copernicus logo  - [Copernicus.org](https://publications.copernicus.org/), checkmark icons - [Flaticons](https://www.flaticon.com/))
 
-
-
-
-
-As you can see a traditional scientific publishing is more close to an 'advertizement' of one work, while employing 'Open Science' approach you are actually doing science in the right way (basically satisfying many of R5 principles)
-
-<!-- Difference between good science practices and common science practices, i.e. (Open Science vs Advertizement) -->
+By comparing Figure 4 and Figure 5 a rather provocative conclusion can be made which is that the traditional approach to scientific work is more close to an 'advertizement'  than to science because a majority of population, especially those living in low-income countries, will have **only** the access to an abstract. For access to anything else one must pay. In case of Open Science approach, we are actually doing science in the right way.
 
 # Open Science building blocks
 
