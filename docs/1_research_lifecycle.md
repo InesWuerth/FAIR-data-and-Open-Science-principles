@@ -50,10 +50,11 @@ The depicted research lifecycle consists of seven phases:
     For each research output, the researcher can either publish only the output's metadata, or the output with metadata. 
     
     When publishing, a researcher must select an appropriate license which clarifies the terms of usage of the published asset. The type of license will depend on the asset.
-    - For metadata, data, and data annotations [Creative Commons licenses](https://creativecommons.org/choose/) are typically used. 
+    
+    - Metadata, data, and data annotations typically use [Creative Commons licenses](https://creativecommons.org/choose/). 
     - Data processing code can use various [licenses](https://choosealicense.com/), where [MIT](https://opensource.org/licenses/MIT) or [BSD](https://opensource.org/licenses/BSD-3-Clause) are among favorites in the open source community. 
     
-    A researcher needs to assign a published output a persistent identifier ([PID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-Persistent-identifiers-PIDs-)) to every output. This allows an efficient citation of the published output. Typically, a Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) is used as the PID for these outputs.
+    A researcher needs to assign a persistent identifier ([PID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-Persistent-identifiers-PIDs-)) to every output. This allows efficient citation. A Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) is typically used as the PID for metadata, data, and data annotations, and data processing code.
 
     Published outputs can be protected temporarily through an [embargo](https://en.wikipedia.org/wiki/Embargo_(academic_publishing)). The embargo is a period during which access to the published output is limited to the output's author(s). However, the metadata are accessible, and thus the output can be cited. This may be particularly helpful for datasets.
 
@@ -67,7 +68,9 @@ The depicted research lifecycle consists of seven phases:
 
 # Roles in lifecycle
 
-There are many roles involved in the research lifecycle. The [CRediT](https://casrai.org/credit/) taxonomy identifies 14 roles typically played by contributors in the research lifecycle, in terms of the research output:
+There are usually many people involved in the research lifecycle, and they each play different roles. Unfortunately these people are not always visible in traditional papers, despite their important contributions.
+
+The [CRediT](https://casrai.org/credit/) taxonomy identifies 14 roles based on their contribution to each research output:
 
  1. **Conceptualization – Ideas**: formulation or evolution of overarching research goals and aims (see [Hypothesis](#hypothesis) phase).
  2. **Data curation**: Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use (see [Data collection](#data-collection), [Processing](#data-processing) and [Storage](#data-storing)).
@@ -84,6 +87,7 @@ There are many roles involved in the research lifecycle. The [CRediT](https://ca
  13. **Writing – original draft**: Preparation, creation and/or presentation of the published work, specifically writing the initial draft (see [Publishing](#publishing)).
  14. **Writing – review & editing**: Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision including pre- or post-publication stages (see [Publishing](#publishing)).
 
-
 ![CRedit badges](./img/badges.png)
 **Figure 2.** CRediT roles identify the contribution of different actors to a research output. They are depicted here as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
+
+We suggest that every contributor to each research output should be assigned one of these roles. This should be done in the output metadata and where possible in the output itself.
