@@ -1,21 +1,19 @@
-# About research lifecycle
+# The research lifecycle
 
-Research is a complex process, and it best understood if broken to phases which for simplicity of explanation are executed sequentially, however some of them actually run in parallel (e.g., data collection, processing and storage). There are several representation of research lifecycle, where the most commonly used is one below:
+Research is a complex process, and it is most easily understood as a series of steps carried out sequentially in a loop. This loop may repeat one or more times in a project. A commonly-used representation is shown below. 
 
 ![Research lifecyle](./img/ResearchLifecycle_foster.png)
-**Figure 1.** Research lifecyle (source: [FOSTER](https://www.fosteropenscience.eu/node/1420))
+**Figure 1.** The research lifecyle. From [“The Open Science Handbook”](https://www.fosteropenscience.eu/sites/default/files/pdf/3986.pdf) (Open Science and Research Initiative, 2014). Used under the Creative Commons Attribution 4.0 International Public License.
 
-<!-- <div align="center">
-<img src="./img/ResearchLifecycle_foster.png" width="75%">
-<br> Figure 1. Research lifecyle (source: <a href="https://www.fosteropenscience.eu/node/1420">FOSTER</a>)
-</div> -->
+In reality, some of these phases may run in parallel, for example data collection, processing and storage. 
 
-The depicted research lifecycle consists of following phases:
+The depicted research lifecycle consists of the following phases:
 
  1. **Hypothesis** <a name = "hypothesis"></a>
 
-    This the cornerstone phase of research. At this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement), selects [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis and design his/hers research. The design of the research is crucial as it entails details of the phases that will follow, such as a clear design of an experiment/simulation which will be used to test the hypotesis, Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected, processes, analyzed, published and preserved.
-
+    This the cornerstone phase of research. During this phase of the research lifecycle a researcher establishes a research hypothesis (i.e., a problem statement) and selects a [research method](https://libguides.newcastle.edu.au/researchmethods) (e.g., [observational study](http://www.psychologyandsociety.com/observationalstudy.html)) which will be used to test/assess the hypothesis. 
+    
+    These steps allow the researcher to further design and plan their research. For example, they might lead to a concept and plans for the experiments or simulation which will be used to test the hypothesis. This in turn allows the researcher to create a Data Management Plan ([DMP]((https://dmponline.deic.dk/))) which outlines how data will be collected, processes, analyzed, published and preserved.
 
  2. **Data collection** <a name = "data-collection"></a>
 
