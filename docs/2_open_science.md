@@ -59,7 +59,7 @@ Lets now look at a hypothetical case of applying Open Science principles. First 
 By comparing Figure 4 and Figure 5 a rather provocative conclusion can be made which is that the traditional approach to scientific work is more close to an 'advertizement'  than to science because a majority of population, especially those living in low-income countries, will have **only** the access to an abstract. For access to anything else one must pay. In case of Open Science approach, we are actually doing science in the right way.
 
 <!-- # Open Science building blocks
-
+Open Science MOOC: https://www.youtube.com/channel/UCuRYnv28aGLz6iyxduJhf9g/featured
 ## Open Notebooks
 
 ## Open Data
