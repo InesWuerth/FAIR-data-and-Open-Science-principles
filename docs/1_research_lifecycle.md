@@ -22,19 +22,19 @@ The depicted research lifecycle consists of seven phases:
 
  3. **Processing** <a name = "data-processing"></a>
 
-    Then, the collected data are processed to yield information and insights. This phase of the research lifecycle therefore accounts for all of the data processing code. 
-    
+    Then, the collected data are processed to yield information and insights. This phase of the research lifecycle therefore accounts for all of the data processing code.
+
     In experimental studies -- which often have a longer period of time data processing -- the data processing should ideally run in near-real-time with data collection. This helps avoid nasty surprises later in the project when time and resources may be constrained.
-    
+
     It is common that a significant and often unplanned portion of the resources allocated to data processing are actually spent on data preparation (e.g., [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling), filtering, quality control, quality assurance, etc.) prior to data processing. According to one study, data preparation typically accounts for 80% of researcher’s time, whereas the remaining 20% of their time is spend on the actual data processing [FORBES](https://bit.ly/2WwVPho).
-    
+
     Larger data collections should be [annotated](https://zenodo.org/record/3522413)) while processing them. This enables the data to be split into [subsets](https://en.wikipedia.org/wiki/Subsetting) for later analysis. This reduces the amount of time spent on data preparation if the data are re-used.
 
 
  4. **Storing data and results** <a name = "data-storing"></a>
 
     This phase actually runs in parallel with [data collection](#data-collection) and [data processing](#data-processing). As we collect and process data, we need to find and allocate storage for metadata, data, data annotations, data processing code and the results of data processing.
-    
+
     During this time the researcher needs temporary, fast access storage services which allow a team of researchers to work jointly on data. These services are often offered by universities. Researchers can also take advantage of European collaborative data infrastructures such as the [EUDAT B2Drop service](https://www.eudat.eu/services/b2drop).
 
 
@@ -46,14 +46,14 @@ The depicted research lifecycle consists of seven phases:
  6. **Publication and distribution** <a name = "publishing"></a>
 
     Researchers usually generate many outputs during the research process. These may occur before or after a traditional scientific paper, and may include data, data processing code, and data annotations. These outputs are still publishable and should be published, as they have value for colleagues and the wider community.
-    
-    For each research output, the researcher can either publish only the output's metadata, or the output with metadata. 
-    
+
+    For each research output, the researcher can either publish only the output's metadata, or the output with metadata.
+
     When publishing, a researcher must select an appropriate license which clarifies the terms of usage of the published asset. The type of license will depend on the asset.
-    
-    - Metadata, data, and data annotations typically use [Creative Commons licenses](https://creativecommons.org/choose/). 
-    - Data processing code can use various [licenses](https://choosealicense.com/), where [MIT](https://opensource.org/licenses/MIT) or [BSD](https://opensource.org/licenses/BSD-3-Clause) are among favorites in the open source community. 
-    
+
+    - Metadata, data, and data annotations typically use [Creative Commons licenses](https://creativecommons.org/choose/).
+    - Data processing code can use various [licenses](https://choosealicense.com/), where [MIT](https://opensource.org/licenses/MIT) or [BSD](https://opensource.org/licenses/BSD-3-Clause) are among favorites in the open source community.
+
     A researcher needs to assign a persistent identifier ([PID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-Persistent-identifiers-PIDs-)) to every output. This allows efficient citation. A Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) is typically used as the PID for metadata, data, and data annotations, and data processing code.
 
     Published outputs can be protected temporarily through an [embargo](https://en.wikipedia.org/wiki/Embargo_(academic_publishing)). The embargo is a period during which access to the published output is limited to the output's author(s). However, the metadata are accessible, and thus the output can be cited. This may be particularly helpful for datasets.
@@ -90,4 +90,10 @@ The [CRediT](https://casrai.org/credit/) taxonomy identifies 14 roles based on t
 ![CRedit badges](./img/badges.png)
 **Figure 2.** CRediT roles identify the contribution of different actors to a research output. They are depicted here as [OpenBadges](https://openbadges.org/about/) (source: [Github](https://github.com/akenall/Open-Contributorship-Badges/blob/master/Badge%20Files.md))
 
-We suggest that every contributor to each research output should be assigned one of these roles. This should be done in the output metadata and where possible in the output itself.
+We suggest that every contributor to each research output should be assigned one of these roles. This should be done in the output metadata and where possible in the output itself. In case of scientific papers, the dedicated section *Author Contributions* should contain explicitly stated contribution of each author.
+
+The following example shows an *Author Contributions* section from a [Cell Press paper ](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00062-4) as well as a version that has been re-written to include the CRediT taxonomy.
+
+> **Original**: S.C.P. and S.Y.W. conceived and performed experiments, wrote the manuscript, and secured funding. M.E., A.N.V., and N.A.V. performed experiments. M.E.V and C.K.B. provided reagents. A.B., N.L.W., and A.A.D. provided expertise and feedback.
+
+> **CRediT revised**: Conceptualization,S.C.P. and S.Y.W.;Methodology, A.B., S.C.P.,and S.Y.W.; Investigation, M.E., A.N.V., N.A.V., S.C.P., and S.Y.W.; Writing – Original Draft, S.C.P. and S.Y.W.; Writing – Review & Editing,S.C.P. and S.Y.W.; Funding Acquisition, S.C.P. and S.Y.W.; Resources,M.E.V and C.K.B.; Supervision, A.B., N.L.W., and A.A.D
