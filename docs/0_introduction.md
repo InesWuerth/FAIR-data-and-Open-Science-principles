@@ -13,11 +13,11 @@ These principles were made to serve the purposes of all research domains. Theref
 ## Report structure
 The report contains the following:
 
-- [Review of research lifecycle and roles lifecycle](./0_research_lifecycle.md)
-- [Open Science principles](./1_open_science.md),
-- [FAIR data principles](./2_fair_principles.md),
-- [R<sup>5</sup> principles](./3_R5.md),
-- [and application of principles to the needs of LIKE ITN](./4_use_cases.md) (*under construction*).
+- [Review of research lifecycle and roles lifecycle](./1_research_lifecycle.md)
+- [Open Science principles](./2_open_science.md),
+- [FAIR data principles](./3_fair_principles.md),
+- [R<sup>5</sup> principles](./4_R5.md),
+- [and application of principles to the needs of LIKE ITN](./5_use_cases.md) (*under construction*).
 
 
 ## A living document
