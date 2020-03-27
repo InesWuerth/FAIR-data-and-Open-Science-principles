@@ -47,7 +47,10 @@ The depicted research lifecycle consists of seven phases:
 
     Researchers usually generate many outputs during the research process. These may occur before or after a traditional scientific paper, and may include data, data processing code, and data annotations. These outputs are still publishable and should be published, as they have value for colleagues and the wider community.
 
-    For each research output, the researcher can either publish only the output's metadata, or the output with metadata.
+    For each research output, the researcher can either publish only the output's metadata, or the output with metadata. This has several reasons:
+    1. metadata will live longer than data,
+    2. although you want to announce that you created dataset, you still want to be the first one who has access to it (you could put an embargo, but often because of (1) you want to detach metadata and data or at least to have a sole copy of metadata published without data),
+    3. You might have data that you cannot share with everyone, but still want to report that you have it and to cite it (i.e., you want unique and persistent identifier of metada).
 
     When publishing, a researcher must select an appropriate license which clarifies the terms of usage of the published asset. The type of license will depend on the asset.
 
