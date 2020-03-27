@@ -29,7 +29,7 @@ Science must be 'open' per se, however pushing and promoting 'Open Science' prin
 
 2. [Reproducibility Crisis](https://science.sciencemag.org/content/349/6251/aac4716)
 
-    Much research in many fields cannot be sufficiently reproduced.
+    Some study report that [at best 50 % of published results can be reproduced](https://science.sciencemag.org/content/349/6251/aac4716).
 
 3. [Serial Crisis](https://publications.parliament.uk/pa/cm201314/cmselect/cmbis/99/9905.htm)
 
