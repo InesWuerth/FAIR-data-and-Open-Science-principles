@@ -27,7 +27,7 @@ Science must be 'open' per se, however pushing and promoting 'Open Science' prin
 
 
 
-2. Reproducibility Crisis
+2. [Reproducibility Crisis](https://science.sciencemag.org/content/349/6251/aac4716)
 
     Much research in many fields cannot be sufficiently reproduced.
 
